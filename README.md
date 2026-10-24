@@ -16,7 +16,7 @@ Built and simulated in Tinkercad Circuits.
 
 # My Calculations
 
-![LED button circuit](mein-calculations.png)
+![LED button circuit](mein-calculations.jpg)
 
 
 ## Parts

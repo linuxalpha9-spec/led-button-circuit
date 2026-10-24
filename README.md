@@ -14,6 +14,10 @@ Built and simulated in Tinkercad Circuits.
 
 ![LED button circuit](led-multimeter.png)
 
+# My Calculations
+
+![LED button circuit](mein-calculations.png)
+
 
 ## Parts
 - 9V battery
